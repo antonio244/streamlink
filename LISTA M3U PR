@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="BEIN-AR | SPORTS 1 HD" tvg-logo="" group-title="SPORTS BeiN HD 4K",BEIN-AR | SPORTS 1 HD
+http://471728060314255415.niceyes.xyz:80/Antoniocaspe/4174370290/255415
+#EXTINF:-1 tvg-id="beIN Sports 3 ARB" tvg-name="BEIN-AR | SPORTS 3 HD" tvg-logo="" group-title="SPORTS BeiN HD 4K",BEIN-AR | SPORTS 3 HD
+http://471728060314255418.niceyes.xyz:80/Antoniocaspe/4174370290/255418
+#EXTINF:-1 tvg-id="beIN Sports 4 ARB" tvg-name="BEIN-AR | SPORTS 4 HD" tvg-logo="" group-title="SPORTS BeiN HD 4K",BEIN-AR | SPORTS 4 HD
+http://471728060314255419.niceyes.xyz:80/Antoniocaspe/4174370290/255419
+#EXTINF:-1 tvg-id="beIN Sports 5 ARB" tvg-name="BEIN-AR | SPORTS 5 HD" tvg-logo="" group-title="SPORTS BeiN HD 4K",BEIN-AR | SPORTS 5 HD
+http://471728060314255420.niceyes.xyz:80/Antoniocaspe/4174370290/255420
+#EXTINF:-1 tvg-id="beIN Sports 6 ARB" tvg-name="BEIN-AR | SPORTS 6 HD" tvg-logo="" group-title="SPORTS BeiN HD 4K",BEIN-AR | SPORTS 6 HD
+http://471728060314255421.niceyes.xyz:80/Antoniocaspe/4174370290/255421
+#EXTINF:-1 tvg-id="beIN Sports 7 ARB" tvg-name="BEIN-AR | SPORTS 7 HD" tvg-logo="" group-title="SPORTS BeiN HD 4K",BEIN-AR | SPORTS 7 HD
+http://471728060314255422.niceyes.xyz:80/Antoniocaspe/4174370290/255422
+#EXTINF:-1 tvg-id="beIN Sports 8 ARB" tvg-name="BEIN-AR | SPORTS PREMIUM 1 HD" tvg-logo="" group-title="SPORTS BeiN HD 4K",BEIN-AR | SPORTS PREMIUM 1 HD
+http://471728060314255423.niceyes.xyz:80/Antoniocaspe/4174370290/255423
+#EXTINF:-1 tvg-id="beIN Sports 9 ARB" tvg-name="BEIN-AR | SPORTS PREMIUM 2 HD" tvg-logo="" group-title="SPORTS BeiN HD 4K",BEIN-AR | SPORTS PREMIUM 2 HD
+http://471728060314255424.niceyes.xyz:80/Antoniocaspe/4174370290/255424
+#EXTINF:-1 tvg-id="beIN Sports News ARB" tvg-name="BEIN-AR | NEWS HD" tvg-logo="" group-title="SPORTS BeiN HD 4K",BEIN-AR | NEWS HD
+http://471728060314265257.niceyes.xyz:80/Antoniocaspe/4174370290/265257
+#EXTINF:-1 tvg-id="" tvg-name="BE VOO SPORT WORLD 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbe3e202978b4f951509a510282327d2.png" group-title="NICE SPORTS",BE VOO SPORT WORLD 2 FHD
+http://471728060314270460.niceyes.xyz:80/Antoniocaspe/4174370290/270460
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR BEIN SPORTS 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="NICE SPORTS",FR BEIN SPORTS 1 HD
+http://471728060314270500.niceyes.xyz:80/Antoniocaspe/4174370290/270500
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR BEIN SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="NICE SPORTS",FR BEIN SPORTS 2 FHD
+http://471728060314270501.niceyes.xyz:80/Antoniocaspe/4174370290/270501
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR BEIN SPORTS 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e36554e2468737a5a1e4a41112d673a5.png" group-title="NICE SPORTS",FR BEIN SPORTS 3 HD
+http://471728060314270502.niceyes.xyz:80/Antoniocaspe/4174370290/270502
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR CANAL+ SPORT FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/567fa14e0c1befb33fd593795f63452b.png" group-title="NICE SPORTS",FR CANAL+ SPORT FHD
+http://471728060314270503.niceyes.xyz:80/Antoniocaspe/4174370290/270503
+#EXTINF:-1 tvg-id="rmcsportnews.fr" tvg-name="FR RMC SPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" group-title="NICE SPORTS",FR RMC SPORT 1 FHD
+http://471728060314270506.niceyes.xyz:80/Antoniocaspe/4174370290/270506
+#EXTINF:-1 tvg-id="" tvg-name="FR TRACE SPORT STARS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8fc45d7ab0d5401b97b5485e558e0fa3.png" group-title="NICE SPORTS",FR TRACE SPORT STARS FHD
